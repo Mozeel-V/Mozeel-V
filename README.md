@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a Computer Science and Engineering student at 
 
 ## 📌 Featured Projects
 
-### [Medical-Chatbot](https://github.com/Mozeel-V/Medical-Chatbot)
+### [Medical Chatbot](https://github.com/Mozeel-V/Medical-Chatbot)
 An advanced AI chatbot for preliminary medical diagnoses using **Retrieval Augmented Generation (RAG)**. Built with Mistral, LangChain, and Pinecone, it analyzes symptoms, test results, and provides probability-based disease predictions.  Features a responsive Flask backend for seamless interaction. 
 - **Tech Stack:** Python, LangChain, Mistral, Pinecone, Flask
 - **Key Features:** RAG-powered retrieval, symptom analysis, test interpretation
@@ -48,13 +48,13 @@ A full-stack language learning platform enabling real-time connection between la
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel. app/api?username=Mozeel-V&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mozeel-V&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozeel-V&layout=compact&theme=dark)
 
 ## 🤝 Let's Connect!
 
-I'm always open to collaborating on interesting projects, discussing ideas, or exploring opportunities in AI/ML and full-stack development. 
+I am always open to collaborating on interesting projects, discussing ideas, or exploring opportunities in AI/ML and full-stack development. 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mozeel-vanwani/)
 - 📧 [Email](mailto:vanwani.mozeel@gmail.com)
