@@ -46,9 +46,9 @@ An ML/Retrieval-powered medical assistant that uses NLP techniques to understand
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mozeel-V&show_icons=true&theme=dark)
+> Using a repository-hosted chart instead of an external stats API for better reliability.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozeel-V&layout=compact&theme=dark)
+![Language Distribution](./assets/language-pie-chart.svg)
 
 ## 🤝 Let's Connect!
 
