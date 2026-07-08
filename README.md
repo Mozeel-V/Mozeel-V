@@ -1,50 +1,48 @@
 # Hey there, I'm Mozeel-V 👋
 
-Welcome to my GitHub profile! I'm a Computer Science and Engineering student at **IIT Kharagpur**, passionate about AI, machine learning, and full-stack development. I love building intelligent systems that solve real-world problems.
+Welcome to my GitHub profile! I'm a Computer Science and Engineering student at **IIT Kharagpur**, focused on low-level systems engineering and AI/ML-driven applications. I enjoy building projects that balance core computer science fundamentals with practical impact.
 
 ## 🎓 About Me
 
 - 🎯 **UG Student** at IIT Kharagpur pursuing Computer Science and Engineering
-- 🤖 Fascinated by **Retrieval Systems**, **Neural Networks**, and **Reinforcement Learning**
-- 💻 Full-stack developer with expertise in modern web technologies
-- 🚀 Always experimenting with cutting-edge AI/ML frameworks
-- 🌱 Deeply invested in learning and building practical applications
+- ⚙️ Exploring **C/C++ low-level systems** and core fundamentals through projects like VolcanoDB and virtual filesystem design
+- 🤖 Focused on **Machine Learning, Retrieval, and NLP** through practical projects like SetFit, spam detection, and medical assistants
+- 🚀 Building end-to-end systems that combine software fundamentals with intelligent behavior
+- 🌱 Deeply invested in learning by implementing ideas from scratch
 
 ## 🛠️ Skills & Technologies
 
+- **Systems & Fundamentals:** C, C++, operating-system concepts, file systems, transport protocols
 - **Languages:** Python, JavaScript, Java, C, C++
-- **AI/ML:** LangChain, TensorFlow, PyTorch, Retrieval Augmented Generation (RAG)
+- **ML/Retrieval/NLP:** PyTorch, TensorFlow, LangChain, SetFit, Retrieval Augmented Generation (RAG)
+- **Backend & APIs:** Node.js, Flask, Express.js, REST APIs
 - **Frontend:** React, HTML5, CSS3, JavaScript ES6+
-- **Backend:** Node.js, Flask, Express.js
-- **Real-time Communication:** WebRTC, Socket.IO
 - **Databases:** MongoDB, PostgreSQL, Pinecone
-- **Financial Tech:** Black-Scholes Models, Binomial Trees, Monte Carlo Simulation
-- **Tools & Platforms:** Git, Docker, REST APIs, Render
+- **Tools & Platforms:** Git, Docker, Linux
 
 ## 📌 Featured Projects
 
-### [Medical Chatbot](https://github.com/Mozeel-V/Medical-Chatbot)
-An advanced AI chatbot for preliminary medical diagnoses using **Retrieval Augmented Generation (RAG)**. Built with Mistral, LangChain, and Pinecone, it analyzes symptoms, test results, and provides probability-based disease predictions.  Features a responsive Flask backend for seamless interaction. 
-- **Tech Stack:** Python, LangChain, Mistral, Pinecone, Flask
-- **Key Features:** RAG-powered retrieval, symptom analysis, test interpretation
+### [VolcanoDB](https://github.com/Mozeel-V/volcano-db)
+A low-level database systems project focused on core storage and query execution fundamentals, inspired by Volcano-style architecture and systems-first design.
+- **Focus Areas:** C/C++ systems programming, database internals, execution model fundamentals
+- **Highlights:** Core data structures, low-level implementation details, performance-oriented thinking
 
-### [Options Pricing Engine](https://github.com/Mozeel-V/options-pricing-engine)
-A sophisticated financial derivatives tool supporting multiple option types (European, American, Asian, Barrier) with advanced pricing models.  Combines mathematical precision with intuitive design for quantitative finance applications.
-- **Tech Stack:** Python, NumPy, SciPy
-- **Algorithms:** Black-Scholes, Binomial Tree, Monte Carlo Simulation
+### [DevNest](https://github.com/Mozeel-V/code-editor)
+A developer-focused code editor project designed to strengthen practical understanding of editor architecture, usability, and tooling workflows.
+- **Focus Areas:** Developer tooling, editing workflows, UI + systems integration
+- **Highlights:** Productivity-centric features, clean editing experience, extensible project structure
 
-### [Connectly](https://github.com/Mozeel-V/connectly-app)
-A full-stack language learning platform enabling real-time connection between language learners and native speakers. Features video calls, instant messaging, and a collaborative learning experience.
-- **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js), WebRTC, Socket.IO
-- **Live Demo:** [connectly-app-project.onrender.com](https://connectly-app-project.onrender.com/)
-- **Key Features:** Real-time chat, video calling, user profiles, language matching
+### [MediBot](https://github.com/Mozeel-V/medical-chatbot)
+An ML/Retrieval-powered medical assistant that uses NLP techniques to understand symptoms and provide context-aware guidance.
+- **Focus Areas:** NLP, retrieval-augmented reasoning, healthcare-oriented conversational AI
+- **Highlights:** Query understanding, retrieval pipeline integration, practical AI assistant behavior
 
 ## 🧠 Current Interests & Learning
 
-- 🔍 **Retrieval Systems** - Advanced search and information retrieval techniques
-- 🧠 **Neural Networks** - Deep learning architectures and optimization
-- 🎮 **Reinforcement Learning** - Building intelligent agents and decision-making systems
-- 🤝 **LLMs & GenAI** - Large language models and generative AI applications
+- ⚙️ **Low-Level C/C++ Systems** - Building fundamentals-first projects such as VolcanoDB, virtual-file-system, and kgp-transport-protocol
+- 🗂️ **Systems Design Fundamentals** - Storage models, transport mechanisms, and performance-oriented implementation
+- 🔍 **ML + Retrieval + NLP** - Learning through projects like setfit-project, medical-chatbot, and spam-detection
+- 🤝 **Practical AI Applications** - Combining retrieval pipelines and language models for real-world assistants
 
 ## 📊 GitHub Stats
 
@@ -62,4 +60,4 @@ I am always open to collaborating on interesting projects, discussing ideas, or 
 ---
 
 *"Innovation is the intersection of curiosity and execution."*  
-Last updated: December 2025
+Last updated: July 2026
