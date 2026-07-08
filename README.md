@@ -46,7 +46,7 @@ An ML/Retrieval-powered medical assistant that uses NLP techniques to understand
 
 ## 📊 GitHub Stats
 
-> Using a repository-hosted chart instead of an external stats API for better reliability.
+> Auto-updated via GitHub Actions using GitHub API data (no external stats service dependency).
 
 ![Language Distribution](./assets/language-pie-chart.svg)
 
