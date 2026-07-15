@@ -10,7 +10,7 @@
   </style>
   <rect width="820" height="390" class="bg" rx="12" />
   <text x="38" y="46" class="title">Project Language Distribution</text>
-  <text x="38" y="68" class="subtitle">Auto-updated via GitHub Actions • Last refresh: 2026-07-14</text>
+  <text x="38" y="68" class="subtitle">Auto-updated via GitHub Actions • Last refresh: 2026-07-15</text>
   <g>
     <path d="M 210 195 L 277.60980047057285 281.7693199254744 A 110 110 0 0 0 210 85 Z" fill="#3b82f6" />
     <path d="M 210 195 L 101.59162427998781 213.64467950243912 A 110 110 0 0 0 277.60980047057285 281.7693199254744 Z" fill="#f59e0b" />
